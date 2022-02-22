@@ -1,4 +1,4 @@
 return {
 	USE_HTTP = false,
-	HTTP_ROOT = "https://enteryourwebsite.com/assets/customlevelloader/"
+	HTTP_ROOT = "https://github.com/keku645/Customlevelloader-json-saves/tree/main"
 }
